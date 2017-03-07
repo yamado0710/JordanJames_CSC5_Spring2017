@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=CPP Template
+PROJECTNAME=Savitch_9thEd_Chap2_Prob13_CandyBars
 
 # Active Configuration
 DEFAULTCONF=Debug
