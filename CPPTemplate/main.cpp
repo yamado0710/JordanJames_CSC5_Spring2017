@@ -1,8 +1,8 @@
 /* 
  * File:   main.cpp
- * Author: Dr. Mark E. Lehr
- * Created on July 19, 2016, 9:07 AM
- * Purpose:  Hello World Template
+ * Author: James Jordan
+ * Created on February 12, 2017, 11:37 AM
+ * Purpose:
  */
 
 //System Libraries Here
@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
     //Process/Calculations Here
     
     //Output Located Here
-    cout<<"Hello World"<<endl;
+    cout<<
 
     //Exit
     return 0;
