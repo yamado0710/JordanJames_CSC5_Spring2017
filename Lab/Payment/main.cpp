@@ -5,6 +5,8 @@
  * Purpose:To write a program that asks the user to enter two numbers. The
  * program should use the conditional operator to determine which number is the smaller
  *  and which is the larger
+ Hrswrkd<=40, then paycheck=payrate*hrswrkd
+ horswrkd>40 paycheck=payrate*hrsworked+payrate(hrsworkd-40)
  */
 
 //System Libraries Here
