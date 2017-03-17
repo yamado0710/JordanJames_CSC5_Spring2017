@@ -2,7 +2,7 @@
  * File:   main.cpp
  * Author: James Jordan
  * Created on February 12, 2017, 11:37 AM
- * Purpose:Grade branching excercise
+ * Purpose:Grade program branching excercise
  */
 
 //System Libraries Here
